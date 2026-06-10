@@ -1,0 +1,6 @@
+---
+title: "Github Practice"
+author: "Carleigh Rust"
+date: "2026-06-10"
+output: html_document
+---
